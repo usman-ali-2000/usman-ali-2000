@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-ali-2000" alt="usman-ali-2000" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1HUzwU8YZpRHEXHXKHclQ4WU7YtLMoarU/view?usp=drive_link](https://drive.google.com/file/d/1HUzwU8YZpRHEXHXKHclQ4WU7YtLMoarU/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at https://docs.google.com/document/d/1IoLQIhwLR1x5oGgPk7yK3-fADlH50HS1/edit?usp=sharing&ouid=100822021191190051774&rtpof=true&sd=true
 
 - 📫 How to reach me **usmanzulfiqar14@gmail.com**
 
